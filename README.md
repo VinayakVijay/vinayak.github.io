@@ -1,2 +1,2 @@
-# vinayakvijay.github.io
+# vinayak.github.io
 My website
